@@ -1,0 +1,11 @@
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\obj\Debug\netcoreapp2.2\Lab13RPS.csprojAssemblyReference.cache
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\obj\Debug\netcoreapp2.2\Lab13RPS.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\obj\Debug\netcoreapp2.2\Lab13RPS.AssemblyInfoInputs.cache
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\obj\Debug\netcoreapp2.2\Lab13RPS.AssemblyInfo.cs
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\bin\Debug\netcoreapp2.2\Lab13RPS.deps.json
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\bin\Debug\netcoreapp2.2\Lab13RPS.runtimeconfig.json
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\bin\Debug\netcoreapp2.2\Lab13RPS.runtimeconfig.dev.json
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\bin\Debug\netcoreapp2.2\Lab13RPS.dll
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\bin\Debug\netcoreapp2.2\Lab13RPS.pdb
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\obj\Debug\netcoreapp2.2\Lab13RPS.dll
+C:\Users\JoshB\source\repos\Lab13RPS\Lab13RPS\obj\Debug\netcoreapp2.2\Lab13RPS.pdb
