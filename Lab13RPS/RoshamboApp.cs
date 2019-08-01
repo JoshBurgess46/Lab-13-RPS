@@ -11,6 +11,8 @@ namespace Lab13RPS
         {
             Roshambo userChoice =  user.GenerateRoshambo();
             Roshambo npcChoice = opponent.GenerateRoshambo();
+            Console.WriteLine("You threw " + userChoice);
+            Console.WriteLine("Your opponent threw " +  npcChoice);
             if (userChoice == npcChoice)
             {
                 Console.WriteLine("tied!"); 
